@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a2053ae-9a40-4c57-b198-b84d7a918981" name="Default Changelist" comment="version2.0-肖老师直接提交">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/msb/cityTraffic/distribution/AreaDistributionAnalysis.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/msb/cityTraffic/distribution/AreaDistributionAnalysisByBloomFilter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/msb/cityTraffic/distribution/WriterDataToKafka.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log_2020-06-21_0.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log_2020-06-21_0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestData.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestData.scala" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1e2FdRY2NharexeFRSqaWNWBJ5C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/interface-service/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/interface-service/src/main/java/com/msb/service/process/imple/DataServiceImpl.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.msb.cityTraffic.distribution" />
+      <recent name="com.msb.cityTraffic.warning" />
+      <recent name="com.msb.cityTraffic.monitor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\trafficmonitor_msb_2\interface-service\src\test\java\com\msb\service" />
+      <recent name="D:\IdeaProjects\trafficmonitor_msb_2\doc\Flink项目文档" />
+      <recent name="D:\IdeaProjects\trafficmonitor_msb_2\doc" />
+      <recent name="D:\IdeaProjects\trafficmonitor_msb_2" />
+      <recent name="$PROJECT_DIR$/doc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AreaDistributionAnalysisByBloomFilter">
+    <configuration name="AreaDistributionAnalysis" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.msb.cityTraffic.distribution.AreaDistributionAnalysis" />
+      <module name="trafficmonitor_msb_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.cityTraffic.distribution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AreaDistributionAnalysisByBloomFilter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.msb.cityTraffic.distribution.AreaDistributionAnalysisByBloomFilter" />
+      <module name="trafficmonitor_msb_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.cityTraffic.distribution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTrackInfoAnalysis" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.msb.cityTraffic.warning.CarTrackInfoAnalysis" />
+      <module name="trafficmonitor_msb_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.cityTraffic.warning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestData" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TestData" />
+      <module name="trafficmonitor_msb_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriterDataToKafka" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.msb.cityTraffic.distribution.WriterDataToKafka" />
+      <module name="trafficmonitor_msb_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.cityTraffic.distribution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AreaDistributionAnalysisByBloomFilter" />
+        <item itemvalue="Application.TestData" />
+        <item itemvalue="Application.AreaDistributionAnalysis" />
+        <item itemvalue="Application.WriterDataToKafka" />
+        <item itemvalue="Application.CarTrackInfoAnalysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a2053ae-9a40-4c57-b198-b84d7a918981" name="Default Changelist" comment="" />
+      <created>1592548166736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592548166736</updated>
+      <workItem from="1593511871368" duration="9405000" />
+      <workItem from="1594035174709" duration="8253000" />
+      <workItem from="1594283149631" duration="903000" />
+      <workItem from="1594727709578" duration="7622000" />
+      <workItem from="1594963932416" duration="134000" />
+      <workItem from="1595331527583" duration="7400000" />
+    </task>
+    <task id="LOCAL-00001" summary="version1.0">
+      <created>1592548456420</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592548456420</updated>
+    </task>
+    <task id="LOCAL-00002" summary="version2.0-肖老师直接提交">
+      <created>1593512512060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593512512060</updated>
+    </task>
+    <task id="LOCAL-00003" summary="version2.0-肖老师直接提交">
+      <created>1593518056736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593518056736</updated>
+    </task>
+    <task id="LOCAL-00004" summary="version2.0-肖老师直接提交">
+      <created>1593522659303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593522659303</updated>
+    </task>
+    <task id="LOCAL-00005" summary="version2.0-肖老师直接提交">
+      <created>1593525844028</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593525844028</updated>
+    </task>
+    <task id="LOCAL-00006" summary="version2.0-肖老师直接提交">
+      <created>1594044567006</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594044567006</updated>
+    </task>
+    <task id="LOCAL-00007" summary="version2.0-肖老师直接提交">
+      <created>1594283444142</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1594283444142</updated>
+    </task>
+    <task id="LOCAL-00008" summary="version2.0-肖老师直接提交">
+      <created>1594735540257</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1594735540257</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version1.0" />
+    <MESSAGE value="version2.0-肖老师直接提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="version2.0-肖老师直接提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/com/msb/cityTraffic/utils/HbaseWriterDataSink.scala</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
